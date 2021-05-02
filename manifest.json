@@ -20,6 +20,6 @@
    "name": "Google Books Right-Click Search",
    "short_name": "GB Search",
    "description": "Search for selected text on Google Books via right-click and see the results in a new 'passive' tab",
-   "permissions": [ "contextMenus", "tabs", "activeTab" ],
+   "permissions": [ "contextMenus" ],
    "version": "1.0.0"
 }
