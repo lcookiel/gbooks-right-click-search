@@ -4,7 +4,7 @@
 
 <h1 align="center">Google Books Right-Click Search</h1>
 
-*<a href="#">Google Books Right-Click Search</a> is a browser extension that allows you to search for selected text on Google Books via right-click.*
+*<a href="https://chrome.google.com/webstore/detail/google-books-right-click/hkhjpncidkbbndcddhgdfcjndijdhina">Google Books Right-Click Search</a> is a browser extension that allows you to search for selected text on Google Books via right-click.*
 
 <hr/>
 
