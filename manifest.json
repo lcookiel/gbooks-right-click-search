@@ -18,7 +18,7 @@
   "manifest_version": 2,
   "name": "Unofficial Google Books Right-Click Search",
   "short_name": "GB Search",
-  "description": "This extension is not a product by Google. Search for selected text on Google Books via right-click and see the results in a new tab.",
+  "description": "Search for selected text on Google Books via right-click and see the results in a new tab. This extension is not an official product.",
   "permissions": ["contextMenus"],
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
