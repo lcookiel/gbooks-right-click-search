@@ -7,7 +7,7 @@
       "16": "images/16.png",
       "32": "images/32.png"
     },
-    "default_title": "Google Books Right-Click Search"
+    "default_title": "Unofficial Google Books Right-Click Search"
   },
   "icons": {
     "16": "images/16.png",
@@ -16,9 +16,9 @@
     "128": "images/128.png"
   },
   "manifest_version": 2,
-  "name": "Google Books Right-Click Search",
+  "name": "Unofficial Google Books Right-Click Search",
   "short_name": "GB Search",
-  "description": "Search for selected text on Google Books via right-click and see the results in a new  tab",
+  "description": "This extension is not a product by Google. Search for selected text on Google Books via right-click and see the results in a new tab.",
   "permissions": ["contextMenus"],
   "version": "1.1.0"
 }
